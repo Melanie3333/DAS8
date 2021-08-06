@@ -1,0 +1,8 @@
+body {
+	font-size:14px;
+	padding: 15px 20px;
+}
+#text {
+	width: 356px;
+	display: inline-block;
+}
